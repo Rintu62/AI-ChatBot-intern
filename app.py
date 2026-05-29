@@ -15,7 +15,7 @@ def chatbot():
 
     # Greetings
     if "hello" in user_message or "hi" in user_message:
-        reply = "Hello there 👋"
+        reply = "Hello there! 👋"
 
     elif "hey" in user_message:
         reply = "Hey  How can I help you?"
